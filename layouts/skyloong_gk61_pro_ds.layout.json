@@ -189,7 +189,7 @@
       "RGB_SPD",
       "RGB_SPI",
       "KC_NO",
-      "RGB_TOG",
+      "KC_MUTE",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -202,7 +202,7 @@
       "RGB_VAI",
       "RGB_TOG",
       "KC_NO",
-      "RGB_VAI",
+      "KC_VOLU",
       "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
@@ -214,10 +214,10 @@
       "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
-      "RGB_SPD",
-      "RGB_VAD",
+      "KC_TRNS",
+      "KC_VOLD",
       "KC_NO",
-      "RGB_SPI"
+      "KC_TRNS"
     ],
     [
       "KC_TRNS",
