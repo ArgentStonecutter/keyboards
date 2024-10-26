@@ -1,7 +1,7 @@
 QMK/VIA layout files for various keyboards:
 -----
 
-* GK61 - Skyloong GK61
+* GK61 - Skyloong GK61 (Pro and Dual Spacebar versions)
 * QK61 - CIDOO QK61
 * RK61 - Royal Kludge RK61
 
