@@ -4,6 +4,7 @@ QMK/VIA layout files for various keyboards:
 * GK61 - Skyloong GK61 (Pro and Dual Spacebar versions)
 * QK61 - CIDOO QK61
 * RK61 - Royal Kludge RK61
+* Y&R 6096 - Cheap "universal" Pok3r PCB from Ali Express.
 
 These layouts all have the following setup:
 -----
