@@ -13,7 +13,7 @@ Fn next to spacebar on the right.
 
 Modifiers in the lower right corner, Righ-shift, Right-alt, Right-GUI, Right-control
 
-Tapping on these generates arrow keys.
+Tapping on these generates arrow keys. Holding them they act as modifiers.
 
 Tap and hold on Tab as a left-hand Fn key
 
