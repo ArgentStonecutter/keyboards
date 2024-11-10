@@ -71,7 +71,7 @@
       "KC_SPC",
       "MO(1)",
       "MT(MOD_LALT | MOD_RALT,KC_LEFT)",
-      "MT(MOD_LGUI | MOD_RGUI,KC_RGUI)",
+      "MT(MOD_LGUI | MOD_RGUI,KC_DOWN)",
       "KC_NO",
       "MT(MOD_LCTL | MOD_RCTL,KC_RGHT)"
     ],
