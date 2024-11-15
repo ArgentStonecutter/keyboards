@@ -2,6 +2,8 @@
 
 Since it really only supports Minila and Tsangan it's not really all that universal. :(
 
+Note: These universal hotswap boards have no backlights. With the trwisty little maze of extra sockets they have no room for LEDs.
+
 Parts list:
 
 * Y&R 6095 PCB and PC plate https://www.aliexpress.us/item/3256804503651503.html
