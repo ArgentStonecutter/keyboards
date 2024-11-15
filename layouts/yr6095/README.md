@@ -5,7 +5,7 @@ Since it really only supports Minila and Tsangan it's not really all that univer
 Parts list:
 
 * Y&R 6095 PCB and PC plate https://www.aliexpress.us/item/3256804503651503.html
-* FEKER plate foam https://www.aliexpress.us/item/3256805751625106.html (
+* FEKER plate foam https://www.aliexpress.us/item/3256805751625106.html
 * Gateron screw-in stabilizers https://www.amazon.com/gp/product/B0BZYK3X1S
 * Plastic case https://www.aliexpress.us/item/3256805505986387.html
 
