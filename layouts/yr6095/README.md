@@ -23,9 +23,9 @@ Displayed keycaps:
 * MOA Black Lotus https://www.amazon.com/gp/product/B0CPWC59NR
 * MOA Pastel theme https://www.amazon.com/gp/product/B0CP9D1MSB
 
-Alternate PCBs:
+Alternate PCBs that may support more layouts:
 
 * YMDK DK61/64/GH60 https://www.aliexpress.us/item/3256805613936725.html ("Color": 2u Shift 64 ANSI ISO)
 * DKKB DK6064 https://www.aliexpress.us/item/3256805431959765.html
 
-Disclaimer: I have only tried the first. It confusingly shows up as DK6064 in VIAL, but according to the vendor is not the same board as the DKKB DK6064. You will need to get an appropriate plate.
+Disclaimer: I have only tried the first. It confusingly shows up as DK6064 in VIAL, but according to the vendor is not the same board as the DKKB DK6064. You will need to get an appropriate plate for the layout you want (traditional/tsangan/minila/ISO/ANSI/...).
