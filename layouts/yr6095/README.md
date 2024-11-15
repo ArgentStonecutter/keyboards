@@ -2,7 +2,7 @@
 
 Since it really only supports Minila and Tsangan it's not really all that universal. :(
 
-Note: These universal hotswap boards have no backlights. With the trwisty little maze of extra sockets they have no room for LEDs.
+Note: These universal hotswap boards have no backlights. With the twisty little maze of extra sockets they have no room for LEDs.
 
 Parts list:
 
