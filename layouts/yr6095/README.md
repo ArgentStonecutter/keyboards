@@ -29,3 +29,5 @@ Alternate PCBs that may support more layouts:
 * DKKB DK6064 https://www.aliexpress.us/item/3256805431959765.html
 
 Disclaimer: I have only tried the first. It confusingly shows up as DK6064 in VIAL, but according to the vendor is not the same board as the DKKB DK6064. You will need to get an appropriate plate for the layout you want (traditional/tsangan/minila/ISO/ANSI/...).
+
+![Image of Minila and Tsangan layouts for the Y&R 6095 PCB](https://raw.githubusercontent.com/ArgentStonecutter/keyboards/refs/heads/main/layouts/yr6095/YR6095-options.png)
