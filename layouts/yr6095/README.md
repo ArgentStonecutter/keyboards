@@ -12,3 +12,13 @@ Parts list:
 Salt with switches and keycaps to taste. Assemble the PCB/foam/plate with switches on a firm soft surface like a deskpad to support the sockets during installation.
 
 Check for fit before installing the switches: you may need to make small cuts in the foam to access the screws to mount the sandwich in the case. It's OK to cut small segments of the foam out, the switches will stil hold the sandwich together.
+
+You will need a pack of 70 switches. Suggestions:
+
+* Outemu SIlent Yellow Jade https://www.aliexpress.us/item/3256807064676561.html
+* Redragon A120 Stars https://www.amazon.com/dp/B0CCTFZPHX
+
+Displayed keycaps:
+
+* MOA Black Lotus https://www.amazon.com/gp/product/B0CPWC59NR
+* MOA Pastel theme https://www.amazon.com/gp/product/B0CP9D1MSB
