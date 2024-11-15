@@ -17,8 +17,8 @@ Check for fit before installing the switches: you may need to make small cuts in
 
 You will need a pack of 70 switches. Suggestions:
 
-* Outemu SIlent Yellow Jade https://www.aliexpress.us/item/3256807064676561.html
-* Redragon A120 Stars https://www.amazon.com/dp/B0CCTFZPHX
+* Outemu Silent Yellow Jade https://www.aliexpress.us/item/3256807064676561.html (bottom)
+* Redragon A120 Stars https://www.amazon.com/dp/B0CCTFZPHX (top)
 
 Displayed keycaps:
 
