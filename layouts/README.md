@@ -19,7 +19,7 @@ Tapping on these generates arrow keys. Holding them they act as modifiers.
 
 Tap and hold on Tab as a left-hand Fn key
 
-Fn-arrows produce Left->Home Up->PgUp Down->PgDn Right->End
+Fn-arrows produce Left->Home / Up->PgUp / Down->PgDn / Right->End
 
 Tap and Hold on Caps-lock as a secondary Fn key for media and backlight controls.
 
