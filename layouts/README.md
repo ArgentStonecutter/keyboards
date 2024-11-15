@@ -9,6 +9,8 @@ QMK/VIA layout files for various keyboards:
 These layouts all have the following setup:
 -----
 
+![RK61/GK61/QK61 layout](https://raw.githubusercontent.com/ArgentStonecutter/keyboards/refs/heads/main/layouts/XX61-layout.png)
+
 Fn next to spacebar on the right.
 
 Modifiers in the lower right corner, Righ-shift, Right-alt, Right-GUI, Right-control
