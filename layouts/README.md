@@ -4,7 +4,7 @@ QMK/VIA layout files for various keyboards:
 * GK61 - Skyloong GK61 (Pro and Dual Spacebar versions)
 * QK61 - CIDOO QK61
 * RK61 - Royal Kludge RK61
-* K717 - Redragon ALcor K717
+* K717 - Redragon Alcor K717
 
 The Y&R 6096 is a different layout, see subdirectory.
 
