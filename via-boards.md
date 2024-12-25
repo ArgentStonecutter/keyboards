@@ -4,7 +4,7 @@ Here's my current list of VIA keyboards that can be fully managed from your Mac 
 
 96%: Monsgeek M2, Keychron V5.
 
-80%: Zouya GMK87[^*], Monsgeek M3 v3. Keychron V3.
+80%: Zouya GMK87[^*], Monsgeek M3 v3, Keychron V3, Royal Kludge RK R87 Pro[^†].
 
 75%: Gamakay SN75[^*], Monsgeek M1\[W] v3/v5 VIA, Akko 5075S VIA, Inland MK Pro and Pro v2, Womier RD75, Ducky Tinker75, or Shortcut Studio Bridge75, Keychron K2 Pro or V1, Royal Kludge RK75[^†], Redragon K715 Finke[^†]
 
