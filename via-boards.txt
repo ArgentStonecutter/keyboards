@@ -1,4 +1,4 @@
-agon Here's my current list of VIA keyboards that can be fully managed from your Mac or Linux box with no Windows shenanigans. It is not complete or authoritative, it leaves out some boards I am worried may be a bit sus, and is only full-height boards that use standard hotswap sockets:
+Here's my current list of VIA keyboards that can be fully managed from your Mac or Linux box with no Windows shenanigans. It is not complete or authoritative, it leaves out some boards I am worried may be a bit sus, and is only full-height boards that use standard hotswap sockets:
 
 100%: Monsgeek M5, Keychron V6.
 
