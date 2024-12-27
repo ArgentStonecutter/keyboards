@@ -14,7 +14,7 @@ Here's my current list of VIA keyboards that can be fully managed from your Mac 
 
 65%: XVX M67, Yunzii AL68, Ducky Tinker65, Feker IK65*, Keychron v2, Royal Kludge RK65^(†).
 
-60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA^(**), CIDOO QK61 QMK/VIA, Keychron V4, Redragon K717 Alcor^(†).
+60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA^(**), CIDOO QK61 QMK/VIA, Keychron V4, Redragon K717 Alcor^(†), KBDcraft Adam^(‡).
 
 60% DIY^(††): Y&R 6095, YMDK DK61, DKKB DK6064.
 
@@ -31,3 +31,5 @@ Other: Daring Run DR-70F wired, CIDOO ABM066\*, Weikav Record*.
 ^(** This is actually a good board, but you have to reprogram all the layers because they have built a whopping great 15-layer Heath-Robinson emulation of the terrible old legacy model's loony-tunes layout)
 
 ^(†† These are sold as bare PCBs, sometimes with plates and cases and sometimes without, you're on your own for stabs and foam and batteries and the like)
+
+^(‡ Sold as a kit, you build the case from Lego style bricks. Minila layout)
