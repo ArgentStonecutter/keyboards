@@ -1,4 +1,4 @@
-Here's my current list of VIA keyboards that can be fully managed from your Mac or Linux box with no Windows shenanigans. It is not complete or authoritative, it leaves out some boards I am worried may be a bit sus, and is only full-height boards that use standard hotswap sockets:
+Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to recommend. It is not complete or authoritative, it leaves out some boards I am worried may be a bit sus, and is only full-height boards that use standard hotswap sockets:
 
 100%: Monsgeek M5, Keychron V6.
 
@@ -21,6 +21,8 @@ Here's my current list of VIA keyboards that can be fully managed from your Mac 
 40%/ortho: Inland MK47, KPRepublic CSTC40, Nuphy RS40, YMDK ID75.
 
 Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*].
+
+[^♪] See these sites for more information: https://www.caniusevia.com/ ... https://qmk.fm/ ... https://get.vial.today/ ...
 
 [^*]: Emulated QMK - proprietary firmware with a VIA port.
 
