@@ -22,7 +22,7 @@ Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to
 
 Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*].
 
-[^♪] See these sites for more information: https://www.caniusevia.com/ ... https://qmk.fm/ ... https://get.vial.today/ ...
+[^♪]: See these sites for more information: https://www.caniusevia.com/ ... https://qmk.fm/ ... https://get.vial.today/ ...
 
 [^*]: Emulated QMK - proprietary firmware with a VIA port.
 
