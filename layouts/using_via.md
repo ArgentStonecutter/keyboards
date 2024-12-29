@@ -16,4 +16,4 @@ Click "authorize device" and select your GK61.
 
 To load a layout.json file, use the floppy icon on the left to open the "save and load" tab.
 
-If you don't like the resuilts, reverting is easy. Plug it in holding down the ESC key and it will enter programming mode and clear the "eprom" settings. Unplug it and plug it back in again and it's factory reset.
+If you don't like the resuilts, reverting a typical QMK keyboard is easy. Plug it in holding down the ESC key and it will enter programming mode and clear the "eprom" settings. Unplug it and plug it back in again and it's factory reset.
