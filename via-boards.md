@@ -14,7 +14,7 @@ Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to
 
 70%: Keychron V7.
 
-65%: XVX M67, Yunzii AL68, Ducky Tinker65, Feker IK65[^*], Keychron v2, Royal Kludge RK65[^†].
+65%: XVX M67, Yunzii AL65 or AL68, Ducky Tinker65, Feker IK65[^*], Keychron v2, Royal Kludge RK65[^†].
 
 60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA, Redragon K717 Alcor[^†], Keychron V4, KBDcraft Adam[^‡].
 
