@@ -27,7 +27,7 @@ Tap and Hold on Caps-lock as a secondary Fn key for media and backlight controls
 
 Caps-up is volume up, Caps-down is volume-down[^2], other keys may vary, see VIA.
 
-The RK61 comes with 16 layers so I have added a Mac layout with LGUI/LALT swapped, Fn-M for Mac, Fn-W for Windows.
+The RK61 comes with 16 layers so I have added a Mac layout with LGUI/LALT swapped, Fn-M for Mac, Fn-W for Windows. [Imgur - RK61 layers](https://imgur.com/a/custom-rk61-mods-nDKc9Kb)
 
 [^1]: K717 layer 1 seems a bit dodgy, avoiding easy access. Use Fn-LALT for L1 access.
 [^2]: K717 does not have this because the default keymap uses Fn-Shift to access layer 4 for things like factory reset.
