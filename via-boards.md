@@ -16,7 +16,7 @@ Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to
 
 65%: XVX M67, Yunzii AL65 or AL68, Ducky Tinker65, Feker IK65[^*], Keychron v2, Royal Kludge RK65[^†], Weikav Lucky65[^*].
 
-60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA, Redragon K717 Alcor[^†], Keychron V4, KBDcraft Adam[^‡].
+60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA, Redragon K717 Alcor[^†], Keychron V4, KBDcraft Adam[^‡], Womier Q61[^♪♪].
 
 60% DIY[^††]: Y&R 6095, YMDK DK61, DKKB DK6064.
 
@@ -35,3 +35,5 @@ Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*].
 [^††]: These are sold as bare PCBs, sometimes with plates and cases and sometimes without, you're on your own for stabs and foam and batteries and the like.
 
 [^‡]: Sold as a kit, you build the case from Lego style bricks. Minila layout.
+
+[^♪♪]: Untested and unreviewed.
