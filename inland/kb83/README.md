@@ -1,5 +1,9 @@
 # Link to patch to clean up the lighting code.
 
+## Branch kb83_simplify
+
+[https://github.com/ArgentStonecutter/qmk_firmware/tree/kb83_simplify]
+
 ## Commit 3b12067 - Remove lighting/keycode shenanigans.
 
 KB83 has a bunch of code that seems to be how to change how lighting changes update, as well as implementing a delayed reset on holding Fn-ESC. This code interferes with changing the mapping for the default lighting code and for adding a new Fn key as a tap-and-hold operation, and doesn't seem to actually do anything useful.
