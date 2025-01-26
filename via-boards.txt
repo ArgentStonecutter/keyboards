@@ -38,4 +38,4 @@ Other: Daring Run DR-70F wired, CIDOO ABM066\*, Weikav Record*, Keebmonkey Bongo
 
 ^(‡ Sold as a kit, you build the case from Lego style bricks. Minila layout)
 
-^(‡‡ Legitimately QMK. But. 63 key layout that's like a half-assed minila. It has arrow keys like a Minilka but it keeps the wider left space and moves the slash key right to the edge. Only get it if you don't think this will drive you crazy.)
+^(‡‡ Legitimately QMK. But. 63 key layout that's like a half-assed minila. It has arrow keys like a Minilka but it keeps the wider left shift and moves the slash key right to the edge. Only get it if you don't think this will drive you crazy.)
