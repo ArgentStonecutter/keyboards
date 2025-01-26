@@ -22,7 +22,7 @@ Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to
 
 40%/ortho: Inland MK47, KPRepublic CSTC40, Nuphy RS40, YMDK ID75.
 
-Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*].
+Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey Bongo Cat Alice.
 
 [^♪]: See these sites for more information: https://www.caniusevia.com/ ... https://qmk.fm/ ... https://get.vial.today/ ...
 
