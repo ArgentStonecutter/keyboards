@@ -6,7 +6,7 @@ Note: These universal hotswap boards have no backlights. With the twisty little 
 
 Parts list:
 
-* Y&R 6095 PCB and PC plate https://www.aliexpress.us/item/3256804503651503.html
+* Y&R 6095 PCB and PC plate ~~https://www.aliexpress.us/item/3256804503651503.html~~ [^1]
 * FEKER plate foam https://www.aliexpress.us/item/3256805751625106.html
 * Gateron screw-in stabilizers https://www.amazon.com/gp/product/B0BZYK3X1S
 * Plastic case https://www.aliexpress.us/item/3256805505986387.html (lower board)
@@ -33,3 +33,5 @@ Alternate PCBs that may support more layouts:
 Disclaimer: I have only tried the first. It confusingly shows up as DK6064 in VIAL, but according to the vendor is not the same board as the DKKB DK6064. You will need to get an appropriate plate for the layout you want (traditional/tsangan/minila/ISO/ANSI/...).
 
 ![Image of Minila and Tsangan layouts for the Y&R 6095 PCB](https://raw.githubusercontent.com/ArgentStonecutter/keyboards/refs/heads/main/layouts/yr6095/YR6095-options.png)
+
+[^1]: No longer available, at least until they do another production run. In the meantime you can use one of the other boards I linked and get a 2u-left-shift 64-key compatible plate.
