@@ -22,7 +22,7 @@ Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to
 
 40%/ortho: Inland MK47, KPRepublic CSTC40, Nuphy RS40, YMDK ID75.
 
-Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey Bongo Cat Alice.
+Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey Bongo Cat Alice[^♫].
 
 [^♪]: See these sites for more information: https://www.caniusevia.com/ ... https://qmk.fm/ ... https://get.vial.today/ ...
 
@@ -37,3 +37,5 @@ Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey 
 [^‡]: Sold as a kit, you build the case from Lego style bricks. Minila layout.
 
 [^♪♪]: Legitimately QMK. But. 63 key layout that's like a half-assed minila. It has arrow keys like a Minilka but it keeps the wider left shift and moves the slash key right to the edge. Only get it if you don't think this will drive you crazy.
+
+[^♫]: QMK/VIA buit it needs a 2u left shift and there are very few keycap sets that have that.
