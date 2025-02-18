@@ -1,0 +1,59 @@
+Having just spent several minutes copying this stuff down using Google Translate on my phone, I thought it might be useful to post somewhere, so the next person doesn't have to squint at it. Is there a central place to coordinate these kinds of things one has to glean from Chinese language only manuals?
+
+    Fn-I - Wired mode.
+    Fn-O - 2.4 GHz mode.
+    Fn-P - Bluetooth 1.
+    Fn-[ - Bluetooth 2.
+    Fn-] - Bluetooth 3.
+    Fn-K - Backlight Speed.
+    Fn-L - Backlight Brightness.
+    Fn-; - Backlight Mode.
+    Fn-' - Backlight On/Off.
+    Fn-, - Vol-.
+    Fn-. - Vol+.
+    Fn-/ - Mute.
+    Fn-T (3sec) - Match 2.4 GHz.
+    Fn-Y (3sec) - Unpair Bluetooth.
+    Fn-G - Switch Mac/Windows.
+    Fn-H (3sec) - Reset settings.
+    Fn-Up - Stop Play
+    Fn-Down - Play/Pause
+    Fn-Left - Prev Track
+    Fn-Right - Next Track
+    Fn-Win - Win On/Off
+
+You need to select a mode when you first set up, it doesn't default to wired mode.
+
+Right column:
+
+    `~
+    Del
+    PgUp
+    PgDn
+
+Mapped keys:
+
+    Fn-Del - PrtSc
+    Fn-PgUp - Home
+    Fn-PgDn - End
+    Fn-Esc - `~ (again)
+    Fn-1-9 - F1-F9
+    Fn-0 - F10
+    Fn-- - F11
+    Fn-= - F12
+    Fn-V - Pause/break
+    Fn-B - Scroll Lock
+    Fn-N - Insert
+    Fn-M - Menu
+    Fn-Tab - Delete (again)
+
+Edit: gaming cluster on the left:
+
+    Fn-W - Up
+    Fn-A - Left
+    Fn-S - Down
+    Fn-D - Right
+    Fn-Q - PgUp
+    Fn-E - PgDn
+    Fn-R - Home
+    Fn-F - End
