@@ -6,7 +6,7 @@ Note: These universal hotswap boards have no backlights. With the twisty little 
 
 Parts list:
 
-* Y&R 6095 PCB and PC plate ~~https://www.aliexpress.us/item/3256804503651503.html~~ [^1]
+* Y&R 6095 PCB and PC plate https://www.aliexpress.us/item/3256804503651503.html [^1]
 * FEKER plate foam https://www.aliexpress.us/item/3256805751625106.html
 * Gateron screw-in stabilizers https://www.amazon.com/gp/product/B0BZYK3X1S
 * Plastic case https://www.aliexpress.us/item/3256805505986387.html (lower board)
@@ -35,3 +35,6 @@ Disclaimer: I have only tried the first. It confusingly shows up as DK6064 in VI
 ![Image of Minila and Tsangan layouts for the Y&R 6095 PCB](https://raw.githubusercontent.com/ArgentStonecutter/keyboards/refs/heads/main/layouts/yr6095/YR6095-options.png)
 
 [^1]: No longer available, at least until they do another production run. In the meantime you can use one of the other boards I linked and get a 2u-left-shift 64-key compatible plate.
+
+Update: 5 left at https://www.aliexpress.us/item/3256804503651503.html and the tri-mode version is available at https://www.aliexpress.us/item/3256808035664485.html but you have to source your own battery.
+
