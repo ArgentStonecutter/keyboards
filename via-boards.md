@@ -40,4 +40,4 @@ Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey 
 
 [^♫]: QMK/VIA but it needs a 2u left shift and there are very few keycap sets that have that.
 
-[^㊍]: Wooden case, and possibly the best commercially available wooden board.
+[^㊍]: Wooden case, and possibly the best commercially available wooden board despite the tray mount and ugly default keycaps.
