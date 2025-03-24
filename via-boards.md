@@ -8,7 +8,7 @@ Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to
 
 80%: Zouya GMK87[^*], Monsgeek M3 v3, Keychron V3, Royal Kludge RK R87 Pro[^†], Weikav Stars80, iLoveBee B87.
 
-75%: Gamakay SN75[^*], Monsgeek M1\[W] v3/v5 VIA, Akko 5075S VIA, Inland MK Pro and Pro v2, Womier RD75, Womier WD75[^㊍], Ducky Tinker75, or Shortcut Studio Bridge75, Keychron K2 Pro or V1, Royal Kludge RK75 QMK[^†], Redragon K715 Finke[^†], Akko 5075B VIA (untested), Jamesdonkey J2.
+75%: Gamakay SN75[^*], Monsgeek M1\[W] v3/v5 VIA, Akko 5075S VIA, Inland MK Pro and Pro v2, Womier RD75, Womier WD75[^㊍], Ducky Tinker75, or Shortcut Studio Bridge75, Keychron K2 Pro or V1, Royal Kludge RK75 QMK[^†], Redragon K715 Finke[^†], Akko 5075B VIA (untested), Jamesdonkey J2[^+].
 
 75% DIY[^††]: YMDK YMD75, KPRepublic XD84, KPRepublic CSTC75.
 
@@ -41,3 +41,5 @@ Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey 
 [^♫]: QMK/VIA but it needs a 2u left shift and there are very few keycap sets that have that.
 
 [^㊍]: Wooden case, and possibly the best commercially available wooden board despite the tray mount and ugly default keycaps.
+
+[^+]: JSON file under "jamesdonkey/j2" directory.
