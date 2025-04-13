@@ -1,0 +1,87 @@
+{
+  "name": "AL80 Keyboard",
+  "vendorId": "0x28E9",
+  "productId": "0x30AF",
+  "matrix": {"rows": 6, "cols": 15},
+  
+  "layouts":{
+    
+    "keymap":[
+      ["0,0",{"x":0.25},"0,1","0,2","0,3", "0,4",{"x":0.25},"0,5","0,6","0,7","0,8",{"x":0.25},"0,9","0,10","0,11","0,12",{"x":0.25},"0,13","0,14\n\n\n\n\n\n\n\n\ne0"],
+      [{"w":1.5},"1,0","1,1","1,2","1,3", "1,4","1,5","1,6","1,7","1,8","1,9","1,10","1,11","1,12",{"w":1.5},"1,13","1,14"],
+      [{"w":1.75},"2,0","2,1","2,2","2,3", "2,4","2,5","2,6","2,7","2,8","2,9","2,10","2,11",{"w":2.25},"2,13","2,14"],
+      [{"w":2},"3,0","3,1","3,2","3,3", "3,4","3,5","3,6","3,7","3,8","3,9","3,10","3,11",{"w":2},"3,13"],
+      [{"w":2.25},"4,0","4,2","4,3","4,4", "4,5","4,6","4,7","4,8","4,9","4,10","4,11",{"w":1.75},"4,12","4,13"],
+      [{"w":1.25},"5,0",{"w":1.25},"5,1",{"w":1.25},"5,2",{"w":6.25},"5,6",{"w":1.25}, "5,10",{"w":1.25},"5,11",{"x":0.5},"5,12","5,13","5,14"]
+
+    ]
+  },
+
+  "keycodes": ["qmk_lighting"],
+  "customKeycodes": [
+    {"name": "KC_USB", "title": "USB MODE", "shortName": "USB"}
+    ],
+      "menus": [
+        {
+          "label": "Lighting",
+          "content": [
+            {
+              "label": "Backlight",
+              "content": [
+                {
+                  "label": "Brightness",
+                  "type": "range",
+                  "options": [0, 255],
+                  "content": ["id_qmk_rgb_matrix_brightness", 3, 1]
+                },
+                {
+                  "label": "Effect",
+                  "type": "dropdown",
+                  "content": ["id_qmk_rgb_matrix_effect", 3, 2],
+                  "options": [
+                    "\u5168\u7184All Off",
+                    "\u5355\u8272Solid Color",
+                    "\u4e0a\u4e0b\u6e10\u53d8Gradient Up/Down",
+                    "\u5de6\u53f3\u6e10\u53d8Gradient Left/Right",
+                    "\u547c\u5438Breathing",
+                    "\u9971\u548c\u5ea6\u6761Band Sat.",
+                    "\u4eae\u5ea6\u6761Band Val.",
+                    "\u9971\u548c\u5ea6\u98ce\u8f66Pinwheel Sat.",
+                    "\u4eae\u5ea6\u6761\u98ce\u8f66Pinwheel Val.",
+                    "\u9971\u548c\u5ea6\u87ba\u65cbSpiral Sat.",
+                    "\u4eae\u5ea6\u6761\u87ba\u65cbSpiral Val.",
+                    "\u5168\u5faa\u73afCycle All",
+                    "\u5de6\u53f3\u5faa\u73afCycle Left/Right",
+                    "\u4e0a\u4e0b\u5faa\u73afCycle Up/Down",
+                    "\u5185\u5916\u5faa\u73afCycle Out/In",
+                    "\u5185\u5916\u53cc\u5faa\u73afCycle Out/In Dual",
+                    "\u5f69\u8679Rainbow Moving Chevron",
+                    "\u5faa\u73af\u98ce\u8f66Cycle Pinwheel",
+                    "\u5faa\u73af\u87ba\u65cbCycle Spiral",
+                    "\u53cc\u706f\u5854Dual Beacon",
+                    "\u5f69\u8679\u706f\u5854Rainbow Beacon",
+                    "\u5f69\u8679\u98ce\u8f66Rainbow Pinwheels",
+                    "\u9971\u548c\u5ea6\u547c\u5438Hue Breathing",
+                    "\u9971\u548c\u5ea6\u706f\u6446Hue Pendulum",
+                    "\u9971\u548c\u5ea6\u6ce2\u6d6aHue Wave"       
+                  ]
+                },
+                {
+                  "showIf": "{id_qmk_rgb_matrix_effect} != 0",
+                  "label": "Effect Speed",
+                  "type": "range",
+                  "options": [0, 255],
+                  "content": ["id_qmk_rgb_matrix_effect_speed", 3, 3]
+                },
+                {
+                  "showIf": "{id_qmk_rgb_matrix_effect} != 0 && {id_qmk_rgb_matrix_effect} != 24 && {id_qmk_rgb_matrix_effect} != 28 && {id_qmk_rgb_matrix_effect} != 29 && {id_qmk_rgb_matrix_effect} != 32",
+                  "label": "Color",
+                  "type": "color",
+                  "content": ["id_qmk_rgb_matrix_color", 3, 4]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+  }
