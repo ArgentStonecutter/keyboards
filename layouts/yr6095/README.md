@@ -31,7 +31,7 @@ Alternate PCBs that may support more layouts:
 * YMDK DK61/64/GH60 https://www.aliexpress.us/item/3256805613936725.html ("Color": 2u Shift 64 ANSI ISO)
 * DKKB DK6064 https://www.aliexpress.us/item/3256805431959765.html
 
-Disclaimer: I have only tried the first. It confusingly shows up as DK6064 in VIAL, but according to the vendor is not the same board as the DKKB DK6064. You will need to get an appropriate plate for the layout you want (traditional/tsangan/minila/ISO/ANSI/...).
+These boards seem to be functionally identical, with the same ID in VIAL and the same layout, including the same details where hotswap sockets were left out for interfering with other sockets.
 
 ![Image of Minila and Tsangan layouts for the Y&R 6095 PCB](https://raw.githubusercontent.com/ArgentStonecutter/keyboards/refs/heads/main/layouts/yr6095/YR6095-options.png)
 
