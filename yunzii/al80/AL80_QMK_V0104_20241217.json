@@ -6,20 +6,43 @@
   
   "layouts":{
     
-    "keymap":[
-      ["0,0",{"x":0.25},"0,1","0,2","0,3", "0,4",{"x":0.25},"0,5","0,6","0,7","0,8",{"x":0.25},"0,9","0,10","0,11","0,12",{"x":0.25},"0,13","0,14\n\n\n\n\n\n\n\n\ne0"],
-      [{"w":1.5},"1,0","1,1","1,2","1,3", "1,4","1,5","1,6","1,7","1,8","1,9","1,10","1,11","1,12",{"w":1.5},"1,13","1,14"],
-      [{"w":1.75},"2,0","2,1","2,2","2,3", "2,4","2,5","2,6","2,7","2,8","2,9","2,10","2,11",{"w":2.25},"2,13","2,14"],
-      [{"w":2},"3,0","3,1","3,2","3,3", "3,4","3,5","3,6","3,7","3,8","3,9","3,10","3,11",{"w":2},"3,13"],
-      [{"w":2.25},"4,0","4,2","4,3","4,4", "4,5","4,6","4,7","4,8","4,9","4,10","4,11",{"w":1.75},"4,12","4,13"],
-      [{"w":1.25},"5,0",{"w":1.25},"5,1",{"w":1.25},"5,2",{"w":6.25},"5,6",{"w":1.25}, "5,10",{"w":1.25},"5,11",{"x":0.5},"5,12","5,13","5,14"]
-
+    "keymap": [
+      ["0,0", {"x":0.25}, "0,1", "0,2", "0,3", "0,4", {"x":0.25}, "0,5", "0,6", "0,7", "0,8", {"x":0.25}, "0,9", "0,10", "0,11", "0,12", {"x":0.25}, "0,13", "0,14\n\n\n\n\n\n\n\n\ne0"],
+      [{"w":1.5}, "1,0", "1,1", "1,2", "1,3", "1,4", "1,5", "1,6", "1,7", "1,8", "1,9", "1,10", "1,11", "1,12", {"w":1.5}, "1,13", "1,14"],
+      [{"w":1.75}, "2,0", "2,1", "2,2", "2,3", "2,4", "2,5", "2,6", "2,7", "2,8", "2,9", "2,10", "2,11", "2,12", {"w":1.25}, "2,13", "2,14"],
+      [{"w":2}, "3,0", "3,1", "3,2", "3,3", "3,4", "3,5", "3,6", "3,7", "3,8", "3,9", "3,10", "3,11", {"w":2}, "3,13"],
+      [{"w":2.25}, "4,0", "4,2", "4,3", "4,4", "4,5", "4,6", "4,7", "4,8", "4,9", "4,10", "4,11", {"w":1.75}, "4,12", "4,13"],
+      [{"w":1.25}, "5,0", {"w":1.25}, "5,1", {"w":1.25}, "5,2", {"w":6.25}, "5,6", {"w":1.25}, "5,10", {"w":1.25}, "5,11", {"x":0.5}, "5,12", "5,13", "5,14"]
     ]
   },
 
   "keycodes": ["qmk_lighting"],
   "customKeycodes": [
-    {"name": "KC_USB", "title": "USB MODE", "shortName": "USB"}
+      {"name": "KC_USB",       "title": "USB MODE",                 "shortName": "USB"},
+      {"name": "CUSTOM(1)",    "title": "Bluetooth 1",               "shortName": "BT1"},
+      {"name": "CUSTOM(2)",    "title": "Bluetooth 2",               "shortName": "BT2"},
+      {"name": "CUSTOM(3)",    "title": "Bluetooth 3",               "shortName": "BT3"},
+      {"name": "CUSTOM(4)",    "title": "Pair 2.4G",                 "shortName": "2.4G"},
+      {"name": "CUSTOM(5)",    "title": "Custom Function 5",         "shortName": "C05"},
+      {"name": "CUSTOM(6)",    "title": "Reset keyboard",            "shortName": "RST"},
+      {"name": "CUSTOM(7)",    "title": "Lock Windows",              "shortName": "LCK"},
+      {"name": "CUSTOM(8)",    "title": "Switch to Windows",         "shortName": "SWW"},
+      {"name": "CUSTOM(9)",    "title": "Switch to Mac",             "shortName": "SWM"},
+      {"name": "CUSTOM(10)",   "title": "Backlight on/off",          "shortName": "BLT"},
+      {"name": "CUSTOM(11)",   "title": "Custom Function 11",        "shortName": "C11"},
+      {"name": "CUSTOM(12)",   "title": "Custom Function 12",        "shortName": "C12"},
+      {"name": "CUSTOM(13)",   "title": "Custom Function 13",        "shortName": "C13"},
+      {"name": "CUSTOM(14)",   "title": "Custom Function 14",        "shortName": "C14"},
+      {"name": "CUSTOM(15)",   "title": "Custom Function 15",        "shortName": "C15"},
+      {"name": "CUSTOM(16)",   "title": "Custom Function 16",        "shortName": "C16"},
+      {"name": "CUSTOM(17)",   "title": "LED Brightness Up",         "shortName": "B+ "},
+      {"name": "CUSTOM(18)",   "title": "LED Brightness Down",       "shortName": "B- "},
+      {"name": "CUSTOM(19)",   "title": "Custom Function 19",        "shortName": "C19"},
+      {"name": "CUSTOM(20)",   "title": "Custom Function 20",        "shortName": "C20"},
+      {"name": "CUSTOM(21)",   "title": "Custom Function 21",        "shortName": "C21"},
+      {"name": "CUSTOM(22)",   "title": "Go to Homepage",            "shortName": "HOM"},
+      {"name": "CUSTOM(23)",   "title": "Change to Image",           "shortName": "IMG"},
+      {"name": "CUSTOM(24)",   "title": "Change to GIF",             "shortName": "GIF"}
     ],
       "menus": [
         {
