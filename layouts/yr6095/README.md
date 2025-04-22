@@ -32,7 +32,7 @@ Alternate PCBs that may support more layouts:
 * YMDK DK61/64/GH60 https://www.aliexpress.us/item/3256805613936725.html ("Color": 2u Shift 64 ANSI ISO)
 * DKKB DK6064 https://www.aliexpress.us/item/3256805431959765.html
 
-These boards seem to be functionally identical, with the same ID in VIAL and the same layout, including the same details where hotswap sockets were left out for interfering with other sockets.
+These boards seem to be functionally identical, with the same ID in VIAL and the same layout, including the same details where hotswap sockets were left out for interfering with other sockets. There are cosmetic differences in the silkscreen and PCB color but they rather look like they're separate production runs of the same design.
 
 ![Image of Minila and Tsangan layouts for the Y&R 6095 PCB](https://raw.githubusercontent.com/ArgentStonecutter/keyboards/refs/heads/main/layouts/yr6095/YR6095-options.png)
 
