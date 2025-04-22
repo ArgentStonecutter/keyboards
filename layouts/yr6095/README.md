@@ -25,6 +25,7 @@ Displayed keycaps:
 
 * MOA Black Lotus https://www.amazon.com/gp/product/B0CPWC59NR
 * MOA Pastel theme https://www.amazon.com/gp/product/B0CP9D1MSB
+* Cherry Fuyu (Winter) https://www.amazon.com/dp/B0BVRRW4KS
 
 Alternate PCBs that may support more layouts:
 
