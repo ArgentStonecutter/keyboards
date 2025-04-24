@@ -38,7 +38,7 @@ These boards seem to be functionally identical, with the same ID in VIAL and the
 
 Trying the YMDK DK61 with split backspace. I had to move the socket from the normal right shift across about 0.25u to allow for the split right shift. The right hand mods are set up for mod-tap using tap-dance in VIAL.
 
-![Image of 60% split backspace layout for the YMDK DK61 PCB](https://raw.githubusercontent.com/ArgentStonecutter/keyboards/refs/heads/main/layouts/yr6095/YMDK-DK61-2.jpg)
+![Image of 60% split backspace layout for the YMDK DK61 PCB](https://raw.githubusercontent.com/ArgentStonecutter/keyboards/refs/heads/main/layouts/yr6095/YMDK-DK61-2.png)
 
 [^1]: No longer available, at least until they do another production run. In the meantime you can use one of the other boards I linked and get a 2u-left-shift 64-key compatible plate. [^2]
 
