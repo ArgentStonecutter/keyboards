@@ -1,1 +1,1 @@
-# Machenike K500A-B84 software
+# Machenike K500A-B84 (wired)
