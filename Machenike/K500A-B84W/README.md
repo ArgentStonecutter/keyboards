@@ -1,1 +1,1 @@
-# Machenike K500A-B84W (wired)
+# Machenike K500A-B84W (wireless)
