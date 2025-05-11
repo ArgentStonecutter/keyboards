@@ -15,7 +15,14 @@ These layouts all have the following setup:
 
 Fn next to spacebar on the right.
 
-Modifiers in the lower right corner, Righ-shift, Right-alt, Right-GUI, Right-control
+Modifiers in the lower right corner, Righ-shift, Right-alt, Right-GUI, Right-control. The actual key changes are:
+
+* Right-shift: `MT(MOD_LSFT | MOD_RSFT,KC_UP)`
+* Function: `MO(N)` (where N is whatever is the function layer)
+* Right-alt: `MT(MOD_LALT | MOD_RALT,KC_LEFT)`
+* Right-GUI: `MT(MOD_LGUI | MOD_RGUI,KC_DOWN)`
+* Right-control: `MT(MOD_LCTL | MOD_RCTL,KC_RGHT)`
+
 
 Tapping on these generates arrow keys. Holding them they act as modifiers.
 
