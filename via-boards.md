@@ -22,7 +22,7 @@ Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to
 
 40%/ortho: Inland MK47, KPRepublic CSTC40, Nuphy RS40, YMDK ID75.
 
-Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey Bongo Cat Alice[^♫].
+Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey Bongo Cat Alice[^♫], Raven50 (50%)[^#].
 
 [^♪]: See these sites for more information: https://www.caniusevia.com/ ... https://qmk.fm/ ... https://get.vial.today/ ...
 
@@ -45,3 +45,5 @@ Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey 
 [^+]: JSON file under "jamesdonkey/j2" directory.
 
 [^?]: Report of poor customer support.
+
+[^#]: 52 keys, 12u wide like a typical 40% but with a number row.
