@@ -34,6 +34,10 @@ Alternate PCBs that may support more layouts:
 
 These boards seem to be functionally identical, with the same ID in VIAL and the same layout, including the same details where hotswap sockets were left out for interfering with other sockets. There are cosmetic differences in the silkscreen and PCB color but they rather look like they're separate production runs of the same design.
 
+YMDK has a complete barebones kit:
+
+* https://ymdkey.com/products/ymdk-dk61-iso-ansi-via-vial-wired-hot-swap-hot-swappable-keyboard-kit
+
 ![Image of Minila and Tsangan layouts for the Y&R 6095 PCB](https://raw.githubusercontent.com/ArgentStonecutter/keyboards/refs/heads/main/layouts/yr6095/YR6095-options.png)
 
 Trying the YMDK DK61 with split backspace. I had to move the socket from the normal right shift across about 0.25u to allow for the split right shift. The right hand mods are set up for mod-tap using tap-dance in VIAL.
