@@ -16,7 +16,7 @@ Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to
 
 65%: XVX M67, Yunzii AL65 or AL68, Ducky Tinker65, Feker IK65[^*], Keychron v2[^?], Royal Kludge RK R65[^†].
 
-60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA[^?], Redragon K717 Alcor[^†], Keychron V4[^?], KBDcraft Adam[^‡], Womier Q61[^♪♪], Sharkoon Skiller SGK50 S4 (possible).
+60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA[^?], Redragon K717 Alcor[^†], Keychron V4[^?], KBDcraft Adam[^‡], Womier Q61[^♪♪], Weikav WK61 Pro, Sharkoon Skiller SGK50 S4 (possible).
 
 60% DIY[^††]: Y&R 6095, YMDK DK61, DKKB DK6064.
 
@@ -36,9 +36,9 @@ Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey 
 
 [^‡]: Sold as a kit, you build the case from Lego style bricks. Minila layout.
 
-[^♪♪]: Legitimately QMK. But. 63 key layout that's like a half-assed minila. It has arrow keys like a Minilka but it keeps the wider left shift and moves the slash key right to the edge. Only get it if you don't think this will drive you crazy.
+[^♪♪]: Legitimately QMK. But. 63 key layout that's like a half-assed minila. It has arrow keys like a Minila but it keeps the wider left shift and moves the slash key right to the edge. Only get it if you don't think this will drive you crazy.
 
-[^♫]: QMK/VIA but it needs a 2u left shift and there are very few keycap sets that have that.
+[^♫]: QMK/VIA but it needs a 2u left spacebar and there are very few keycap sets that have that.
 
 [^㊍]: Wooden case, and possibly the best commercially available wooden board despite the tray mount and ugly default keycaps.
 
