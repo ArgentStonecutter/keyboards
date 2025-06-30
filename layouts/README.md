@@ -23,7 +23,8 @@ Modifiers in the lower right corner, Righ-shift, Right-alt, Right-GUI, Right-con
 * Right-alt: `MT(MOD_LALT | MOD_RALT,KC_LEFT)`
 * Right-GUI: `MT(MOD_LGUI | MOD_RGUI,KC_DOWN)`
 * Right-control: `MT(MOD_LCTL | MOD_RCTL,KC_RGHT)`
-
+* Tab: `LT(N,KC_TAB)`
+* Capslock ()when used): `LT(M,KC_CAPS)`
 
 Tapping on these generates arrow keys. Holding them they act as modifiers.
 
