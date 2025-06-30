@@ -31,7 +31,7 @@ Tap and hold on Tab as a left-hand Fn key
 
 Fn-arrows produce Left->Home / Up->PgUp / Down->PgDn / Right->End
 
-Tap and Hold on Caps-lock as a secondary Fn key for media and backlight controls[^1].
+Tap and Hold on Caps-lock as a secondary Fn key for media and backlight controls[^1][^3].
 
 Caps-up is volume up, Caps-down is volume-down[^2], other keys may vary, see VIA.
 
@@ -39,5 +39,6 @@ The RK61 comes with 16 layers so I have added a Mac layout with LGUI/LALT swappe
 
 [^1]: K717 layer 1 seems a bit dodgy, avoiding easy access. Use Fn-LALT for L1 access.
 [^2]: K717 does not have this because the default keymap uses Fn-Shift to access layer 4 for things like factory reset.
+[^3]: Since the default function layer on the WK61 does not interfere with the navigation kkeys I have not set up a new secondary function layer.
 
 
