@@ -50,4 +50,4 @@ Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey 
 
 [^Z]: Newer versions of the firmware with audio lighting controls are not VIA compatible. Should I remove this one?
 
-[^G]: Appears from the website to be genuine QMK, source code available for download at https://glencreag.com/products/wk84-wired-wooden-mechanical-keyboard.
+[^G]: Source code available for download at https://glencreag.com/products/wk84-wired-wooden-mechanical-keyboard.
