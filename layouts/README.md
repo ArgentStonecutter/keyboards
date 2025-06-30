@@ -5,6 +5,7 @@ QMK/VIA layout files for various keyboards:
 * QK61 - CIDOO QK61
 * RK61 - Royal Kludge RK61
 * K717 - Redragon Alcor K717
+* WK61 - Womier WK61 Pro
 
 The Y&R 6096 is a different layout, see subdirectory.
 
