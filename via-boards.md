@@ -18,7 +18,7 @@ Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to
 
 60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA[^?], Redragon K717 Alcor[^†], Keychron V4[^?], KBDcraft Adam[^‡], Womier Q61[^♪♪], Weikav WK61 Pro, Sharkoon Skiller SGK50 S4 (possible).
 
-60% DIY[^††]: Y&R 6095, YMDK DK61, DKKB DK6064.
+60% DIY[^††]: Y&R 6095, YMDK DK61, DKKB DK6064, many other DH60/Pok3r boards.
 
 40%/ortho: Inland MK47, KPRepublic CSTC40, Nuphy RS40, YMDK ID75.
 
