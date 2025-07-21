@@ -14,7 +14,7 @@ Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to
 
 70%: Keychron V7[^?].
 
-65%: XVX M67, Yunzii AL65 or AL68, Ducky Tinker65, Womier VK66 Pro, Feker IK65[^*], Keychron v2[^?], Royal Kludge RK R65[^†].
+65%: XVX M67, Yunzii AL65 or AL68, Ducky Tinker65, Womier VK66 Pro, Feker IK65[^*], Keychron v2[^?], Royal Kludge RK R65[^†], GMK67 v2[^K].
 
 60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA[^?], Redragon K717 Alcor[^†], Keychron V4[^?], KBDcraft Adam[^‡], Womier Q61[^♪♪], Womier WK61 Pro, Sharkoon Skiller SGK50 S4 (possible).
 
@@ -51,3 +51,5 @@ Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey 
 [^Z]: Newer versions of the firmware with audio lighting controls are not VIA compatible. Should I remove this one?
 
 [^G]: Source code available for download at https://glencreag.com/products/wk84-wired-wooden-mechanical-keyboard.
+
+[^K]: Only GMK67 v2 is VIA, and it passes the layer-tap test.
