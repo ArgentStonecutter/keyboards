@@ -1,4 +1,6 @@
-Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to recommend. It is not complete or authoritative, it leaves out some boards I am worried may be a bit sus, and is only full-height boards that use standard hotswap sockets:
+Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to recommend. It is not complete or authoritative, it leaves out some boards I am worried may be a bit sus, and is only full-height boards that use standard hotswap sockets.
+
+If you want an ISO board: Sharkoon, Keychron, and YMDK.
 
 100%: Monsgeek M5, Keychron V6[^?].
 
