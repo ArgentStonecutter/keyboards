@@ -2,7 +2,7 @@ Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to
 
 100%: Monsgeek M5, Keychron V6[^?].
 
-96%: Monsgeek M2, Keychron V5[^?].
+96%: Monsgeek M2, Keychron V5[^?] Sharkoon Skiller SGR50 S2.
 
 96% DIY[^††]: YMDK YMD96.
 
