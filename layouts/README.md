@@ -1,3 +1,9 @@
+Mod-Tap Arrows...
+-----
+
+On the Anne Pro 2 and a few more recent 60% boards the four lower right modifier keys - typically SHIFT/CONTROL/MENU/FN act as a kind of distorted inverted-T arrow cluster when tapped and act as shif/control/etc when held. This page is about implementing that kind of design on a QMK 60% keyboard.
+
+
 QMK/VIA layout files for various keyboards:
 -----
 
