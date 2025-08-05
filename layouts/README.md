@@ -3,6 +3,14 @@ Mod-Tap Arrows...
 
 On the Anne Pro 2 and a few more recent 60% boards the four lower right modifier keys - typically SHIFT/CONTROL/MENU/FN act as a kind of distorted inverted-T arrow cluster when tapped and act as shif/control/etc when held. This page is about implementing that kind of design on a QMK 60% keyboard.
 
+The simplest change to get that working is:
+
+* Right-shift: `MT(MOD_LSFT | MOD_RSFT,KC_UP)`
+* Function: `LT(N,KC_LEFT)` where "N" is Fn layer number.
+* Right-GUI: `MT(MOD_LGUI | MOD_RGUI,KC_DOWN)` because you can't treat MENU as a modifier [^0]
+* Right-control: `MT(MOD_LCTL | MOD_RCTL,KC_RGHT)`
+
+I prefer to change the layout a little bit, move the Fn key next to the spacebar so that the Fn layer can provide access to the navigation keys.
 
 QMK/VIA layout files for various keyboards:
 -----
