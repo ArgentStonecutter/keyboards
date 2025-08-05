@@ -52,8 +52,10 @@ Caps-up is volume up, Caps-down is volume-down[^2], other keys may vary, see VIA
 
 The RK61 comes with 16 layers so I have added a Mac layout with LGUI/LALT swapped, Fn-M for Mac, Fn-W for Windows. [Imgur - RK61 layers](https://imgur.com/a/custom-rk61-mods-nDKc9Kb)
 
+[^0]: VIAL "Tap Dance" can make that work, but there's hardly any VIAL boards...
 [^1]: K717 layer 1 seems a bit dodgy, avoiding easy access. Use Fn-LALT for L1 access.
 [^2]: K717 does not have this because the default keymap uses Fn-Shift to access layer 4 for things like factory reset.
 [^3]: Since the default function layer on the WK61 does not interfere with the navigation kkeys I have not set up a new secondary function layer.
+
 
 
