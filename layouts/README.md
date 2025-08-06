@@ -15,6 +15,8 @@ I prefer to change the layout a little bit, move the Fn key next to the spacebar
 QMK/VIA layout files for various keyboards:
 -----
 
+If you don't like the changes, reset by holding down the ESC key when you plug it in, that seems to work for all these boards.
+
 * GK61 - Skyloong GK61 (Pro and Dual Spacebar versions)
 * QK61 - CIDOO QK61
 * RK61 - Royal Kludge RK61
