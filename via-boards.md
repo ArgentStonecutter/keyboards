@@ -4,7 +4,7 @@ If you want an ISO board: Sharkoon, Keychron, and YMDK.
 
 100%: Monsgeek M5, Keychron V6[^?].
 
-96%: Monsgeek M2, Keychron V5[^?] Sharkoon Skiller SGR50 S2.
+96%: Monsgeek M2, Keychron V5[^?] Sharkoon Skiller SGK50 S2.
 
 96% DIY[^††]: YMDK YMD96.
 
@@ -18,7 +18,7 @@ If you want an ISO board: Sharkoon, Keychron, and YMDK.
 
 65%: XVX M67, Yunzii AL65 or AL68, Ducky Tinker65, Womier VK66 Pro, Feker IK65[^*], Keychron v2[^?], Royal Kludge RK R65[^†], GMK67 v2[^K], Kbdfans Dusk67 (untested, wood, VIAL).
 
-60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA[^?], Redragon K717 Alcor[^†], Keychron V4[^?], KBDcraft Adam[^‡], Womier Q61[^♪♪], Womier WK61 Pro, Sharkoon Skiller SGK50 S4 (possible).
+60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA[^?], Redragon K717 Alcor[^†], Keychron V4[^?], KBDcraft Adam[^‡], Womier Q61[^♪♪], Womier WK61 Pro, Sharkoon Skiller SGK50 S4.
 
 60% DIY[^††]: Y&R 6095, YMDK DK61, DKKB DK6064, many other DH60/Pok3r boards.
 
