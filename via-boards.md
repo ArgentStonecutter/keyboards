@@ -18,13 +18,15 @@ If you want an ISO board: Sharkoon, Keychron, and YMDK.
 
 65%: XVX M67, Yunzii AL65 or AL68, Ducky Tinker65, Womier VK66 Pro, Feker IK65[^*], Keychron v2[^?], Royal Kludge RK R65[^†], GMK67 v2[^K], Kbdfans Dusk67 (untested, wood, VIAL).
 
-60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA[^?], Redragon K717 Alcor[^†], Keychron V4[^?], KBDcraft Adam[^‡], Womier Q61[^♪♪], Womier WK61 Pro, Sharkoon Skiller SGK50 S4.
+60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA[^?], Redragon K717 Alcor[^†], Keychron V4[^?], KBDcraft Adam[^‡], Womier Q61[^♪♪], Womier WK61 Pro, Sharkoon Skiller SGK50 S4, Rule60 v3[^Y].
 
 60% DIY[^††]: Y&R 6095, YMDK DK61, DKKB DK6064, many other DH60/Pok3r boards.
 
 40%/ortho: Inland MK47, KPRepublic CSTC40, Nuphy RS40, YMDK ID75.
 
 Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey Bongo Cat Alice[^♫], Raven50 (50%)[^#].
+
+[^Y]: Uses Y&R 6095 PCB!
 
 [^♪]: See these sites for more information: https://www.caniusevia.com/ ... https://qmk.fm/ ... https://get.vial.today/ ...
 
