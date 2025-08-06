@@ -23,7 +23,7 @@ If you don't like the changes, reset by holding down the ESC key when you plug i
 * K717 - Redragon Alcor K717
 * WK61 - Womier WK61 Pro
 
-The Y&R 6096 is a different layout, see subdirectory.
+The Y&R 6095/YMDK DK61 universal boards are a different kind of flying, see the yr6095 subdirectory.
 
 These layouts all have the following setup:
 -----
