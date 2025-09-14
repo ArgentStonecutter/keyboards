@@ -2,4 +2,4 @@
 
 Driver files and manuals.
 
-Temporary limewire link for the RGB driver: https://limewire.com/d/ofxxV#VVSYAJnn64
+The RGB driver is too large for Github, but it's easier to find.
