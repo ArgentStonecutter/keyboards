@@ -144,7 +144,7 @@
       "KC_NO",
       "MO(4)",
       "LT(3,KC_LEFT)",
-      "MT(MOD_LGUI | MOD_RGUI,KC_DOWN)",
+      "MT(MOD_RALT,KC_DOWN)",
       "MT(MOD_LCTL | MOD_RCTL,KC_RGHT)"
     ],
     [
