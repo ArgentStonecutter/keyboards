@@ -18,7 +18,7 @@
       "KC_MINS",
       "KC_EQL",
       "KC_BSPC",
-      "KC_TAB",
+      "LT(4,KC_TAB)",
       "KC_Q",
       "KC_W",
       "KC_E",
@@ -59,7 +59,7 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_NO",
-      "KC_RSFT",
+      "MT(MOD_LSFT | MOD_RSFT,KC_UP)",
       "KC_LCTL",
       "CUSTOM(2)",
       "CUSTOM(4)",
@@ -70,10 +70,10 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "CUSTOM(5)",
-      "MO(2)",
       "MO(4)",
-      "KC_RCTL"
+      "LT(2,KC_LEFT)",
+      "MT(MOD_LGUI | MOD_RGUI,KC_DOWN)",
+      "MT(MOD_LCTL | MOD_RCTL,KC_RGHT)"
     ],
     [
       "KC_ESC",
