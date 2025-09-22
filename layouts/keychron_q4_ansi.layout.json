@@ -144,7 +144,7 @@
       "KC_NO",
       "MO(4)",
       "LT(3,KC_LEFT)",
-      "MT(MOD_RALT,KC_DOWN)",
+      "MT(MOD_LALT | MOD_RALT,KC_DOWN)",
       "MT(MOD_LCTL | MOD_RCTL,KC_RGHT)"
     ],
     [
@@ -203,7 +203,7 @@
       "KC_RGHT",
       "KC_DEL",
       "KC_NO",
-      "KC_TRNS",
+      "KC_PGUP",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -215,9 +215,9 @@
       "KC_NO",
       "KC_NO",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS"
+      "KC_HOME",
+      "KC_PGDN",
+      "KC_END"
     ],
     [
       "KC_GRV",
