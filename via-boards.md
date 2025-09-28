@@ -8,7 +8,7 @@ If you want an ISO board: Sharkoon, Keychron, and YMDK.
 
 96% DIY[^††]: YMDK YMD96.
 
-80%: Zouya GMK87[^*], Monsgeek M3 v3, Keychron V3, Royal Kludge RK R87 Pro[^†], Weikav Stars80, iLoveBee B87, ElecFox Linky87, Jamesdonkey J4.
+80%: Zouya GMK87[^*], Monsgeek M3 v3, Keychron V3, Royal Kludge RK R87 Pro[^†][^7], Weikav Stars80[^8], Womier SK87[^8], iLoveBee B87[^7], ElecFox Linky87, Jamesdonkey J4.
 
 75%: Gamakay SN75[^*], Monsgeek M1\[W] v3/v5 VIA, Akko 5075S VIA, Inland MK Pro and Pro v2, Womier RD75, Womier WD75[^㊍], Ducky Tinker75, Shortcut Studio Bridge75 [^?], Keychron K2 Pro or V1 [^?], Royal Kludge RK R75 QMK[^†], Redragon K715 Finke[^†], Akko 5075B VIA (untested), Jamesdonkey J2[^+], Kiiboom Loop75, Kiiboom Moonshadow V2, Kiiboom Phantom81 Lite, Sharkoon Skiller SGK50 S3, Glencreag WK84 [^G], Akko MOD007 v3 VIA (untested), Dark Project Terra Nostra (untested, VIAL).
 
@@ -57,3 +57,7 @@ Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey 
 [^G]: Source code available for download at https://glencreag.com/products/wk84-wired-wooden-mechanical-keyboard.
 
 [^K]: Only GMK67 v2 is VIA, and it passes the layer-tap test.
+
+[^8]: Stars80 and SK87 are basically the same keyboard.
+
+[^7]: RK R87 and iLovebee B87 seem to be the same PCB internally.
