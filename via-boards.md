@@ -4,7 +4,7 @@ If you want an ISO board: Sharkoon, Keychron, and YMDK.
 
 100%: Monsgeek M5, Keychron V6[^?].
 
-96%: Monsgeek M2, Keychron V5[^?] Sharkoon Skiller SGK50 S2.
+96%: Monsgeek M2, Keychron V5[^?] Sharkoon Skiller SGK50 S2, Redragon K742 Arlokks.
 
 96% DIY[^††]: YMDK YMD96.
 
