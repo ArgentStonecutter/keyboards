@@ -1,4 +1,4 @@
-To use VIA, open [usevia.app](https://usevia.app/)[^1] in Chrome or Edge
+To use VIA, open [usevia.app](https://usevia.app/) in Chrome or Edge, or [via.evove.top](https://via.evove.top) which seems to be Monsgeek's fork of VIA, or one pf the VIA desktop apps. Note: some boards seem to be balky with standard VIA on the Mac, but work fine with via.evove.top, particularly Monsgeek/Akko and Royal Kludge.
 
 You will need the VIA JSON file for your board, which you should be able to get from the manufacturer's website.
 
@@ -18,5 +18,4 @@ To save or load a layout.json file with your configuration, use the floppy icon 
 
 If you don't like the results, reverting a typical QMK keyboard is easy. Plug it in holding down the ESC key and it will enter programming mode and clear the "eprom" settings. Unplug it and plug it back in again and it's factory reset.
 
-[^1]: Or [via.evove.top](https://via.evove.top) which seems to be Monsgeek's fork, or use the VIA desktop app.
 [^2]: If you are using the desktop app it may ask you to select your keyboard here.
