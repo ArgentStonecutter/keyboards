@@ -1,4 +1,6 @@
-Crazy mad tap-dance layout for the CSTC40
+Crazy mad tap-dance hard-left layout for the CSTC40
+
+![CTSC40 woth MT3 Dusk caps](https://raw.githubusercontent.com/ArgentStonecutter/keyboards/refs/heads/main/KPRepublic/CSTC40/CSTC40.png)
 
 Double-click:
 
