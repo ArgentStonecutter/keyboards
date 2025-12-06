@@ -6,6 +6,6 @@ Various keyboard-related resources I want to share.
 
 Also check out https://github.com/EanNewton/Awesome-Keebs particularly their [Plumber's Mod](https://github.com/EanNewton/Awesome-Keebs/blob/main/tutorials/Plumbers%20Mod%20for%20Stabilizer.md) page.
 
-I have added VIAL firmware for the Inland kb83 and mk47, Glencreage WK84, and Royal Kludge RK61.
+I have added VIAL firmware for the Inland kb83 and mk47, Glencreag WK84, and Royal Kludge RK61.
 
 * [Source code](https://github.com/ArgentStonecutter/vial-qmk) in various branches.
