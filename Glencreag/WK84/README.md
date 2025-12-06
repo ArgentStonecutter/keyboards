@@ -6,3 +6,5 @@ The two QMK source trees are basically identical, except:
 And... neither of them build in current QMK, so don't even bother. The author's got a working current tree in github.
 
 * https://github.com/gskygithub/qmk_firmware/tree/WK84/keyboards/glencreag/wk84
+
+Also attached: my VIAL firmware based on this code.
