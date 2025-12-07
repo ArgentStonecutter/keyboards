@@ -8,3 +8,5 @@ And... neither of them build in current QMK, so don't even bother. The author's 
 * https://github.com/gskygithub/qmk_firmware/tree/WK84/keyboards/glencreag/wk84
 
 Also attached: my VIAL firmware based on this code.
+
+* https://github.com/ArgentStonecutter/vial-qmk/tree/glencreag/keyboards/glencreag/wk84
