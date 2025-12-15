@@ -1,0 +1,158 @@
+[
+  [
+    "~\n`\n\n`~\nFn3",
+    {
+      "fa": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "!\n1\n\nF1",
+    "@\n2\n\nF2",
+    "#\n3\n\nF3",
+    "$\n4\n\nF4",
+    "%\n5\n\nF5",
+    "^\n6\n\nF6",
+    "&\n7\n\nF7",
+    "*\n8\n\nF8",
+    "(\n9\n\nF9",
+    ")\n0\n\nF10",
+    "_\n-\n\nF11",
+    "+\n=\n\nF12",
+    {
+      "fa": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "w": 2
+    },
+    "Backspace\n\nMute\nDel\n\n\n\nRGB Togg",
+    {
+      "x": 0.25,
+      "fa": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        4
+      ],
+      "w": 3
+    },
+    "Primary\n\nFn3\nFn1\nHold\n\nMac\nFn2\n\nLegend"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Tab\n\n\n\nFn",
+    "Q",
+    "W\n\n\nWin",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    "{\n[",
+    "}\n]",
+    {
+      "w": 1.5
+    },
+    "|\n\\\n\nCF Togg\n\n\n\nRGB Next"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Caps Lock\n\n\n\nFn3",
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    ":\n;",
+    {
+      "f": 3
+    },
+    "\"\n'\n\n`~",
+    {
+      "w": 2.25
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "Shift",
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M\n\n\nMac",
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "w": 2.75
+    },
+    "Shift\n\nVol+\nPgUp\nUp\n\n\nRGB+"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl\n\n\nFn2",
+    {
+      "w": 1.25
+    },
+    "Win\n\nRST\n\n\n\nOpt\nDFU",
+    {
+      "w": 1.25
+    },
+    "Alt\n\n\nFn3\n\n\nCmd",
+    {
+      "a": 7,
+      "w": 6.25
+    },
+    "",
+    {
+      "a": 4,
+      "w": 1.25
+    },
+    "Fn",
+    {
+      "w": 1.25
+    },
+    "Alt\n\nPrev\nHome\nLeft\n\nCmd\nSpd-",
+    {
+      "w": 1.25
+    },
+    "Win\n\nVol-\nPgDn\nDown\n\nAlt\nRGB-",
+    {
+      "w": 1.25
+    },
+    "Ctrl\n\nNext\nEnd\nRight\n\n\nSpd+"
+  ]
+]
