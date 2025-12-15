@@ -28,6 +28,6 @@ If, instead, your board is an ISO 60%, like the _Ranked N60 Nova_ you will need:
 * ISO Enter, this is the big 2u tall L-shaped European enter key.
 * R3/1u "NUHS" (Non-US hash), has "#~" on a UK keyboard.
 * R4/1.25u left shift key
-* R4/1u "NUBS" (Non-US backslash), has "\|" on a UK keyboard.
+* R4/1u "NUBS" (Non-US backslash), has "\\|" on a UK keyboard.
 
 You will also need other national keycaps. UK has different shifted symbols on grave-accent (next to 1), 1, 2, and 3.  Germany has "QWERTZ" on the top letters row (R2) instead of "QWERTY", france has "AZERTY", and so on. Punctuation and shifted characters are even more complex, and many keys have extra legends on the right side of the keycaps.
