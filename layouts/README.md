@@ -19,7 +19,7 @@ If you don't like the changes, reset by holding down the ESC key when you plug i
 
 * GK61 - Skyloong GK61 (Pro and Dual Spacebar versions)
 * QK61 - CIDOO QK61
-* RK61 - Royal Kludge RK61
+* RK61 - Royal Kludge RK61 [^R]
 * K717 - Redragon Alcor K717
 * WK61 - Womier WK61 Pro
 
@@ -59,5 +59,5 @@ The RK61 comes with 16 layers so I have added a Mac layout with LGUI/LALT swappe
 [^2]: K717 does not have this because the default keymap uses Fn-Shift to access layer 4 for things like factory reset.
 [^3]: Since the default function layer on the WK61 does not interfere with the navigation kkeys I have not set up a new secondary function layer.
 
-
+[^R]: Modified firmware with VIALX and this layout [here](https://github.com/ArgentStonecutter/keyboards/tree/main/royalkludge/rk61/vialx).
 
