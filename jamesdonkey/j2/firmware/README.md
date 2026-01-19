@@ -8,3 +8,5 @@ Use Fn-right-control to access the backlight layer.
 
 Use Fn-right-control-page-down to toggle the layer-backlight mode, try it.
 
+* jamesdonkey_j2_via.bin
+* https://github.com/ArgentStonecutter/jamesdonkey_qmk_firmware/tree/j2_sandbox/keyboards/jamesdonkey/j2
