@@ -1,4 +1,6 @@
-# Improved VIAL layout with backlight color display
+# Improved VIAL layout with "hyperscape" backlight color display
+
+Hyper-space mode:
 
 ### Holding the Fn key illuminates the keys with a "Function" keycode.
 
@@ -37,5 +39,7 @@ The remaining keys are mapped over `ZXCV`
 
 layer 5 - Hyper - media and backlight<br>
 ![layer 5](layer5.png)<br>
-Hyper exposes the displayed media controls, and `ZXCV` get the remaining backlight functions.<br>
-Hyper-Lower and -Raise are the volume contorls, and Hyper-Space turns on the function backlights.
+`Hyper` exposes the displayed media controls,<br>
+`ZXCV` get the remaining backlight functions.<br>
+`Hyper`-`Lower` and -`Raise` are the volume controls,<br>
+`Hyper`-`Space` turns on the function backlights.
