@@ -1,6 +1,14 @@
 # Improved VIAL layout with backlight color display
 
+### Holding the Fn key illuminates the keys with a "Function" keycode.
 
+![Function layer illuminated](hyper4.png)
+
+### Holding the Hyper key illuminates the keys with a "Hyper" keycode.
+
+![Hyper layer illuminated](hyper5.png)
+
+## How it works:
 
 Find the code here:
 
