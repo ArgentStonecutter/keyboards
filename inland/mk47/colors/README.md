@@ -31,6 +31,7 @@ Unused in the default layout, all identical.
 
 layer 4 - Fn - alternate keycodes<br>
 ![layer 4](layer4.png)<br>
+Function-arrows get you the navigation keys.<br>
 The existing `<>?` keys map to the second row bracket/backslash.<br>
 The remaining keys are mapped over `ZXCV`
 
