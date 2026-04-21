@@ -1,6 +1,6 @@
 Source code provided by Yunzii via MEGA.
 
-I have extracted the actual keyboard code from the copy of the QMK distro they provided, it is untestes and the firle tree is somewhat non-conventional. The "Smart80" matches the known characteristics of the B75 Pro as far as I can tell.
+I have extracted the actual keyboard code from the copy of the QMK distro they provided, it is untested and the file tree is somewhat non-conventional. The "Smart80" matches the known characteristics of the B75 Pro as far as I can tell.
 
 Source:
 
