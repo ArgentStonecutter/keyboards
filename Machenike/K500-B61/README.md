@@ -1,1 +1,1 @@
-# K500B61 drivers
+# K500B61 drivers and firmware
