@@ -29,6 +29,19 @@
 #include "mk25047.h"
 #include "process_magic.h"
 #include "keyboard_screen.h"
+
+/* Reject any firmware update payload that does not begin with the expected
+ * authentication magic value (FIRMWARE_UPDATE_MAGIC from config.h).
+ * Must be called before flashing any received firmware image.
+ * Returns true only if fw_data carries the correct 4-byte magic header. */
+bool verify_firmware_signature(const uint8_t *fw_data, uint32_t fw_len) {
+    if (fw_data == NULL || fw_len < 4U) return false;
+    const uint32_t magic = ((uint32_t)fw_data[0] << 24)
+                         | ((uint32_t)fw_data[1] << 16)
+                         | ((uint32_t)fw_data[2] <<  8)
+                         |  (uint32_t)fw_data[3];
+    return magic == FIRMWARE_UPDATE_MAGIC;
+}
 #include "common.h"
 #include "hygui.h"
 #include "raw_hid.h"

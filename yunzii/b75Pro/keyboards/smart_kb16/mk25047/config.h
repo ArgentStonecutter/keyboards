@@ -26,6 +26,7 @@
 #define WEAR_LEVELING_BACKING_SIZE (WEAR_LEVELING_LOGICAL_SIZE * 2)
 /*module updata*/
 #define Module_Updata
+#define FIRMWARE_UPDATE_MAGIC   0x594B4245U /* 'YKBE' firmware authentication magic */
 // #define Screen_AP
 /*Number of RGB per DRIVER Config*/
 #define DRIVER_1_LED_TOTAL 44
