@@ -43,3 +43,7 @@ layer 5 - Hyper - media and backlight<br>
 `ZXCV` get the remaining backlight functions.<br>
 `Hyper`-`Lower` and -`Raise` are the volume controls,<br>
 `Hyper`-`Space` turns on the function backlights.
+
+## Also, added suport for the Apple globe key
+
+Not mapped, but available in VIAL as GLOBE on the User tab.
