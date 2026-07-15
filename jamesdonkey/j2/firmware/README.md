@@ -1,6 +1,6 @@
 # Jamesdonkey J2 experimental firmware
 
-Added a Mac layer and a backlight layer.
+Added a Mac layer and a backlight layer, and the globe key mod from https://skip.house/blog/qmk-globe-key.
 
 Use Fn + right-alt/right-command to switch to Mac layer. This swaps left-alt and left-command and converts right-alt into right-command and back again.
 
