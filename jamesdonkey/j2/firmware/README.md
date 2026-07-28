@@ -1,3 +1,5 @@
+## Warning: there is apparrently a new version of the J2 that can be identified by the addition of a Win-Mac switch. The firmware in the Jamesdonkey repo does not seem to have been updated but I would recommend not trying to use the older version firmware on it.
+
 # Jamesdonkey J2 experimental firmware
 
 Added a Mac layer and a backlight layer, and the globe key mod from https://skip.house/blog/qmk-globe-key.
