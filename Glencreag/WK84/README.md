@@ -7,7 +7,9 @@ And... neither of them build in current QMK, so don't even bother. The author's 
 
 * https://github.com/gskygithub/qmk_firmware/tree/WK84/keyboards/glencreag/wk84
 
-UPDATE: this has vanished. The file `glencreag-wk84.tgz` is a copy of the keyboard's source tree. It's what I used to base my VIAL port.
+UPDATE: this has vanished. The file `glencreag-wk84.tgz` is a copy of the keyboard's source tree. It's what I used to base my VIAL port. I have verified that it is consistent with the last QMK pull request for this board before it was deleted.
+
+I don't know the story behind the deletion, possibbly the author got tired of QMK leaving approval hanging.
 
 Also attached: my VIAL firmware based on this code.
 
