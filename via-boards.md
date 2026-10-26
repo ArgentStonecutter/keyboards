@@ -1,24 +1,24 @@
 Here's my current list of VIA/VIAL keyboards[^♪] I feel I know enough about to recommend. It is not complete or authoritative, it leaves out some boards I am worried may be a bit sus, and is only full-height boards that use standard hotswap sockets.
 
-If you want an ISO board: Sharkoon, Keychron, and YMDK.
+If you want an ISO board: Sharkoon, Keychron K series, and YMDK.
 
-100%: Monsgeek M5, Keychron V6[^?].
+100%: Monsgeek M5, Keychron V6[^??], Keychron K10.
 
-96%: Monsgeek M2, Keychron V5[^?] Sharkoon Skiller SGK50 S2, Redragon K742 Arlokks, Yunzii IF99 (untested).
+96%: Monsgeek M2, Keychron V5[^??] Sharkoon Skiller SGK50 S2, Redragon K742 Arlokks, Yunzii IF99 (untested).
 
 96% DIY[^††]: YMDK YMD96.
 
-80%: Zouya GMK87[^*], Monsgeek M3 v3, Keychron V3, Royal Kludge RK R87 Pro[^7], Weikav Stars80[^8], Womier SK87[^8], iLoveBee B87[^7], ElecFox Linky87, Jamesdonkey J4, Yunzii B87.
+80%: Zouya GMK87[^*], Monsgeek M3 v3, Keychron V3[^??], Royal Kludge RK R87 Pro[^7], Weikav Stars80[^8], Womier SK87[^8], iLoveBee B87[^7], ElecFox Linky87, Jamesdonkey J4, Yunzii B87.
 
-75%: Gamakay SN75[^*], Monsgeek M1\[W] v3/v5 VIA, Akko 5075S VIA, Inland MK Pro and Pro v2, Womier RD75, Womier WD75[^㊍], Ducky Tinker75, Shortcut Studio Bridge75 [^?], Keychron K2 Pro or V1 [^?], Royal Kludge RK R75 QMK, Redragon K715 Finke, Akko 5075B VIA (untested), Jamesdonkey J2[^+], Kiiboom Loop75, Kiiboom Moonshadow V2, Kiiboom Phantom81 Lite, Sharkoon Skiller SGK50 S3, Glencreag WK84 [^G], Akko MOD007 v3 VIA (untested), Dark Project Terra Nostra (untested, VIAL), Weikav Stars75.
+75%: Gamakay SN75[^*], Monsgeek M1\[W] v3/v5 VIA, Akko 5075S VIA, Inland MK Pro and Pro v2, Womier RD75, Womier WD75[^㊍], Ducky Tinker75, Shortcut Studio Bridge75 [^?], Keychron K2 Pro, Keychron V1 [^??], Royal Kludge RK R75 QMK, Redragon K715 Finke, Akko 5075B VIA (untested), Jamesdonkey J2[^+], Kiiboom Loop75, Kiiboom Moonshadow V2, Kiiboom Phantom81 Lite, Sharkoon Skiller SGK50 S3, Glencreag WK84 [^G], Akko MOD007 v3 VIA (untested), Dark Project Terra Nostra (untested, VIAL), Weikav Stars75.
 
 75% DIY[^††]: YMDK YMD75, KPRepublic XD84, KPRepublic CSTC75.
 
-70%: Keychron V7[^?].
+70%: Keychron V7[^??].
 
-65%: XVX M67, XVX MU68, Yunzii AL65 or AL68, Ducky Tinker65, Womier VK66 Pro, Feker IK65[^*], Keychron v2[^?], Royal Kludge RK R65, GMK67 v2[^K], Kbdfans Dusk67 (untested, wood, VIAL), Weikav NUT65, Akko YU01, KBDCraft Lilith.
+65%: XVX M67, XVX MU68, Yunzii AL65 or AL68, Ducky Tinker65, Womier VK66 Pro, Feker IK65[^*], Keychron v2[^??], Royal Kludge RK R65, GMK67 v2[^K], Kbdfans Dusk67 (untested, wood, VIAL), Weikav NUT65, Akko YU01, KBDCraft Lilith.
 
-60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA[^?], Redragon K717 Alcor, Keychron V4[^?], KBDcraft Adam[^‡], Womier Q61[^♪♪], Womier WK61 Pro, Sharkoon Skiller SGK50 S4, Rule60 v3[^Y].
+60%: GK61 QMK/VIA, Royal Kludge RK61 QMK/VIA[^**], CIDOO QK61 QMK/VIA[^?], Redragon K717 Alcor, Keychron V4[^??], KBDcraft Adam[^‡], Womier Q61[^♪♪], Womier WK61 Pro, Sharkoon Skiller SGK50 S4, Rule60 v3[^Y].
 
 60% DIY[^††]: Y&R 6095, YMDK DK61, DKKB DK6064, many other DH60/Pok3r boards.
 
@@ -47,6 +47,8 @@ Other: Daring Run DR-70F wired, CIDOO ABM066[^*], Weikav Record[^*], Keebmonkey 
 [^+]: JSON file under "jamesdonkey/j2" directory.
 
 [^?]: Report of poor customer support.
+
+[^??]: Keychron Q and V series boards have rare but severe quality issues. Report of poor customer support. NOT recommended.
 
 [^#]: 52 keys, 12u wide like a typical 40% but with a number row.
 
