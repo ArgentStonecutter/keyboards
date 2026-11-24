@@ -18,6 +18,8 @@ Adds a spot for the grave/tilde key and an extra that can be used for FN or DEL.
 
 Shift the "Z" row 1/4 of a key space left to make room for an arrow cluster in the lower right.
 
+![Tsangan](tsangan.png)
+
 **"Tsangan" layout**
 
 Mostly the same layout and variants as regular 61 key, with a modified symmetrical bottom row. WKL (windows-key-less) is based on this layout without the 1u modifiers.
